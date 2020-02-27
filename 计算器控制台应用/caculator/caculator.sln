@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caculator", "caculator\caculator.csproj", "{DC698361-F70B-41C0-B2D6-AC4DBFD8E11B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC698361-F70B-41C0-B2D6-AC4DBFD8E11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC698361-F70B-41C0-B2D6-AC4DBFD8E11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC698361-F70B-41C0-B2D6-AC4DBFD8E11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC698361-F70B-41C0-B2D6-AC4DBFD8E11B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37BFF262-EE02-4257-B955-431D811A3FFB}
+	EndGlobalSection
+EndGlobal

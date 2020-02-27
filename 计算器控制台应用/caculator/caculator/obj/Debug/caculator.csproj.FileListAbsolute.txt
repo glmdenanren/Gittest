@@ -1,0 +1,6 @@
+E:\临时\代码\软件构造基础\ConsoleApp2\caculator\caculator\bin\Debug\caculator.exe.config
+E:\临时\代码\软件构造基础\ConsoleApp2\caculator\caculator\bin\Debug\caculator.exe
+E:\临时\代码\软件构造基础\ConsoleApp2\caculator\caculator\bin\Debug\caculator.pdb
+E:\临时\代码\软件构造基础\ConsoleApp2\caculator\caculator\obj\Debug\caculator.csprojAssemblyReference.cache
+E:\临时\代码\软件构造基础\ConsoleApp2\caculator\caculator\obj\Debug\caculator.exe
+E:\临时\代码\软件构造基础\ConsoleApp2\caculator\caculator\obj\Debug\caculator.pdb

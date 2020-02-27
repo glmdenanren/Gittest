@@ -1,0 +1,9 @@
+E:\临时\代码\软件构造基础\caculator\caculator\caculator\obj\Debug\caculator.csprojAssemblyReference.cache
+E:\临时\代码\软件构造基础\caculator\caculator\caculator\obj\Debug\caculator.Form1.resources
+E:\临时\代码\软件构造基础\caculator\caculator\caculator\obj\Debug\caculator.Properties.Resources.resources
+E:\临时\代码\软件构造基础\caculator\caculator\caculator\obj\Debug\caculator.csproj.GenerateResource.cache
+E:\临时\代码\软件构造基础\caculator\caculator\caculator\bin\Debug\caculator.exe.config
+E:\临时\代码\软件构造基础\caculator\caculator\caculator\bin\Debug\caculator.exe
+E:\临时\代码\软件构造基础\caculator\caculator\caculator\bin\Debug\caculator.pdb
+E:\临时\代码\软件构造基础\caculator\caculator\caculator\obj\Debug\caculator.exe
+E:\临时\代码\软件构造基础\caculator\caculator\caculator\obj\Debug\caculator.pdb
