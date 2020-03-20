@@ -1,0 +1,6 @@
+E:\临时\代码\软件构造基础\homework4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\临时\代码\软件构造基础\homework4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\临时\代码\软件构造基础\homework4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\临时\代码\软件构造基础\homework4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\临时\代码\软件构造基础\homework4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\临时\代码\软件构造基础\homework4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
