@@ -1,0 +1,443 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="origin" />
+    
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>单继刚 - 博客园</title>
+    <link id="favicon" rel="shortcut icon" href="//common.cnblogs.com/favicon.ico?v=20200522" type="image/x-icon" />
+    
+    <link rel="stylesheet" href="/css/blog-common.min.css?v=KCO3_f2W_TC__-jZ7phSnmoFkQuWMJH2yAgA16eE3eY" />
+    <link id="MainCss" rel="stylesheet" href="/skins/codinglife/bundle-codinglife.min.css?v=UeHyLv1TT2WTz4TwfUOiMoKNmtFvLUjUnIhFE2UmZ7I" />
+    
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/codinglife/bundle-codinglife-mobile.min.css?v=XjHfryC9ctsatIZz1dHn7TsRIqmwz9c3aj_6SCfHSDM" />
+    
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/jigang/rss" />
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/jigang/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/jigang/wlwmanifest.xml" />
+    <script src="https://common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+    <script src="/js/blog-common.min.js?v=6bwfCY2e02dLOXNW99G2BHZkYFmw9QyYTWeJ-W-sudo"></script>
+    <script>
+        var currentBlogId = 289510;
+        var currentBlogApp = 'jigang';
+        var cb_enable_mathjax = false;
+        var isLogined = false;
+        var skinName = 'CodingLife';
+    </script>
+    
+    
+    
+</head>
+<body>
+    <a name="top"></a>
+    
+    
+<!--done-->
+<div id="home">
+<div id="header">
+	<div id="blogTitle">
+        <a id="lnkBlogLogo" href="https://www.cnblogs.com/jigang/"><img id="blogLogo" src="/skins/custom/images/logo.gif" alt="返回主页" /></a>		
+		
+<!--done-->
+<h1><a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/jigang/">单继刚</a>
+</h1>
+<h2>
+
+</h2>
+
+
+
+
+		
+	</div><!--end: blogTitle 博客的标题和副标题 -->
+	<div id="navigator">
+		
+<ul id="navList">
+<li><a id="blog_nav_sitehome" class="menu" href="https://www.cnblogs.com/">
+博客园</a>
+</li>
+<li>
+<a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/jigang/">
+首页</a>
+</li>
+<li>
+
+<a id="blog_nav_newpost" class="menu" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">
+新随笔</a>
+</li>
+<li>
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E5%8D%95%E7%BB%A7%E5%88%9A">
+联系</a></li>
+<li>
+<a id="blog_nav_rss" class="menu" href="javascript:void(0)" data-rss="https://www.cnblogs.com/jigang/rss/">
+订阅</a>
+<!--<partial name="./Shared/_XmlLink.cshtml" model="Model" /></li>--></li>
+<li>
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+</li>
+</ul>
+
+
+		<div class="blogStats">
+			
+			<span id="stats_post_count">随笔 - 
+9&nbsp; </span>
+<span id="stats_article_count">文章 - 
+0&nbsp; </span>
+<span id="stats-comment_count">评论 - 
+0</span>
+
+			
+		</div><!--end: blogStats -->
+	</div><!--end: navigator 博客导航栏 -->
+</div><!--end: header 头部 -->
+
+<div id="main">
+	<div id="mainContent">
+	<div class="forFlow">
+		
+<!--done-->
+
+
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jigang/archive/2017/09/24.html">2017年9月24日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jigang/p/7588952.html">
+[置顶]    学会分享是一种快乐
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：之前一直想写一些文章来分享自己的一些知识 ，可以和大家互相学习，可内心一直有中东西阻挠着，总觉得自己写的不够完美，不能表达出我的真实想法。后来想想哪有那么多的完美，只要跨出了第一步，有一颗乐于分享的心不就跟大家产生共鸣了嘛。以后会将工作和学习中的点滴都记录下来同大家分享，之前的团队也是提倡分享的，只            <a href="https://www.cnblogs.com/jigang/p/7588952.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">posted @ 2017-09-24 22:10
+单继刚
+<span class="post-view-count">阅读(68)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=7588952" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jigang/archive/2020/05/29.html">2020年5月29日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jigang/p/12990231.html">
+    Library source does not match the bytecode for class 最佳解决方案
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：首先分析问题 打完的jar包，编译的后class跟java文件不一致，原因是重新打包后还是引用之前的java文件，不能重新加载新生成的jar。 解决方案 方案一 IDEA 工具，点击File 》invalidate caches /restart，重启IDEA看是否解决问题。 方案二 重新构建项目，            <a href="https://www.cnblogs.com/jigang/p/12990231.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">posted @ 2020-05-29 23:44
+单继刚
+<span class="post-view-count">阅读(0)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12990231" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jigang/archive/2020/05/24.html">2020年5月24日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jigang/p/12952991.html">
+    商品推荐算法
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：淘宝网会为你推荐一些商品，而这些商品是如何被推荐过来的想必你也很好奇，今天我们就来聊一下商品推荐的一些算法，当下主流的推荐算法协同过滤推荐算法，让我们一起来看看它是如何工作的。 首先，我们先了解下余弦相似度算法的定义。 其次，大学里我们学过的余弦公式大家应该还有印象，我们先回顾一下。 再者，我们要了            <a href="https://www.cnblogs.com/jigang/p/12952991.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">posted @ 2020-05-24 22:36
+单继刚
+<span class="post-view-count">阅读(16)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12952991" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jigang/p/12951445.html">
+    客服端负载均衡：Spring Cloud Ribbon
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：Spring Cloud Ribbon是一个基于HTTP和TCP的客户端负载均衡工具。服务间的调用，API网关的请求转发都是通过Ribbon实现的。 1. 在微服务架构中使用客户端负载均衡需要两步： (1) 服务提供者需要启动多个服务实例并注册到一个注册中心或是多个相关联的服务注册中心。 (2) 服            <a href="https://www.cnblogs.com/jigang/p/12951445.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">posted @ 2020-05-24 16:37
+单继刚
+<span class="post-view-count">阅读(48)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12951445" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jigang/p/12951286.html">
+    服务治理：Spring Cloud Eureka
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：Spring Cloud Eureka主要负责完成微服务架构中服务治理功能。 服务治理是微服务架构中最为核心和基础模块，主要用来实现各个微服务实例的自动注册和发现。 服务注册 微服务实例启动后向注册中心注册自己的服务，服务注册中心会维护服务清单，并以心跳的方式去监测清单中的服务是否可用，若不可用测将            <a href="https://www.cnblogs.com/jigang/p/12951286.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">posted @ 2020-05-24 16:04
+单继刚
+<span class="post-view-count">阅读(9)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12951286" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jigang/p/12950966.html">
+    JDK动态代理
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：Spring的AOP实现用了Proxy和InvocationHandler,现在就介绍一下JDK动态代理。 自定义的InvocationHandler需要重写3个函数。 1）构造函数，将代理对象传入 2）invoke方法 3）getProxy方法 1、创建业务接口 public interface             <a href="https://www.cnblogs.com/jigang/p/12950966.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">posted @ 2020-05-24 14:44
+单继刚
+<span class="post-view-count">阅读(8)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12950966" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jigang/p/12950869.html">
+    数据库连接JDBC
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：1、创建数据库连接对象 Connection connection=DriverManager.getConnection(&quot;jdbc:mysql://localhost:3306/database&quot;,&quot;root&quot;,&quot;12345&quot;); 2、创建Statement对象 Statement statem            <a href="https://www.cnblogs.com/jigang/p/12950869.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">posted @ 2020-05-24 14:13
+单继刚
+<span class="post-view-count">阅读(8)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12950869" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jigang/archive/2018/08/09.html">2018年8月9日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jigang/p/9447247.html">
+    nginx四种均衡策略
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：1、基于轮询的均衡策略： 轮询嘛，就是说对进到nginx的request按照遍历的方式进行分发，如果request 1 分发到 Server A，那么request 2将被分发到 Server B,......以此循环类推 2、基于最少连接数的均衡策略： 最少连接，也就是说nginx会判断后端集群服            <a href="https://www.cnblogs.com/jigang/p/9447247.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">posted @ 2018-08-09 10:11
+单继刚
+<span class="post-view-count">阅读(17)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=9447247" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jigang/archive/2017/10/10.html">2017年10月10日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jigang/p/7646208.html">
+    dubbo分布式应用
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：dubbo介绍： dubbo是一款分布式服务框架，支持高性能和透明化的RPC远程服务调用方案，每天为2千多个服务提供大于30亿次访问量支持，并被广泛应用于阿里巴巴集团的各成员站点以及别的公司的业务中。 dubbo架构： 服务提供者provider、服务消费者和注册中心。 流程： 服务提供者推出了一个            <a href="https://www.cnblogs.com/jigang/p/7646208.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">posted @ 2017-10-10 16:07
+单继刚
+<span class="post-view-count">阅读(43)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=7646208" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+
+<div class="topicListFooter">
+    <div id="nav_next_page">
+        
+    
+
+    </div>    
+</div>
+
+
+
+
+
+
+
+
+	</div><!--end: forFlow -->
+	</div><!--end: mainContent 主体内容容器-->
+
+	<div id="sideBar">
+		<div id="sideBarMain">
+			
+
+
+<div id="sidebar_ad"></div>
+			<div id="blog-calendar" style="display:none"></div><script>loadBlogDefaultCalendar();</script>
+			
+			<div id="leftcontentcontainer">
+				<div id="blog-sidecolumn"></div>
+                    <script>loadBlogSideColumn();</script>
+			</div>
+			
+		</div><!--end: sideBarMain -->
+	</div><!--end: sideBar 侧边栏容器 -->
+	<div class="clear"></div>
+	</div><!--end: main -->
+	<div class="clear"></div>
+	<div id="footer">
+		<!--done-->
+Copyright &copy; 2020 单继刚
+<br /><span id="poweredby">Powered by .NET Core on Kubernetes</span>
+
+
+
+	</div><!--end: footer -->
+</div><!--end: home 自定义的最大容器 -->
+
+
+    
+</body>
+</html>

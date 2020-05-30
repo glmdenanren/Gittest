@@ -1,0 +1,580 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="origin" />
+    
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>ぺあ紫泪°冰封ヤ - 博客园</title>
+    <link id="favicon" rel="shortcut icon" href="//common.cnblogs.com/favicon.ico?v=20200522" type="image/x-icon" />
+    
+    <link rel="stylesheet" href="/css/blog-common.min.css?v=KCO3_f2W_TC__-jZ7phSnmoFkQuWMJH2yAgA16eE3eY" />
+    <link id="MainCss" rel="stylesheet" href="/skins/gray/bundle-gray.min.css?v=0kzTEpk_hI7MaNe19aqYpko9NZ1XIIY9eVdg79uY1DI" />
+    
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/gray/bundle-gray-mobile.min.css?v=ZbqaRkECbUBQHdWai5Z6gU0S4TTdm61BUgInt0cJNjI" />
+    
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/ynly/rss" />
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/ynly/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/ynly/wlwmanifest.xml" />
+    <script src="https://common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+    <script src="/js/blog-common.min.js?v=6bwfCY2e02dLOXNW99G2BHZkYFmw9QyYTWeJ-W-sudo"></script>
+    <script>
+        var currentBlogId = 598687;
+        var currentBlogApp = 'ynly';
+        var cb_enable_mathjax = false;
+        var isLogined = false;
+        var skinName = 'gray';
+    </script>
+    
+    
+    
+</head>
+<body>
+    <a name="top"></a>
+    <div id="page_begin_html">
+        <script>loadPageBeginHtml();</script>
+    </div>
+    <!--done-->
+<div id="banner"><div id="bnr_pic">
+<!--done-->
+<div class="header">
+	<div class="headerText">
+		<a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/ynly/">ぺあ紫泪°冰封ヤ</a>
+<br>
+	</div>
+	<div class="headerDis">
+Study Hungry. Study Foolish.
+
+</div>
+</div>
+
+</div></div>
+<div id="main">
+	<!-- left starts -->
+	<div id="left">
+	<div id="left_border">
+		<DIV id="mystats">
+			<br>
+				<!--done-->
+<div class="blogStats">
+随笔- 
+33&nbsp;
+文章- 
+0&nbsp;
+评论- 
+0&nbsp;
+</div>
+
+
+			
+		</DIV>
+		<div id="mylinks">
+
+<a id="blog_nav_sitehome" class="menu" href="https://www.cnblogs.com/">
+博客园</a>
+&nbsp;&nbsp;
+<a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/ynly/">
+首页</a>
+&nbsp;&nbsp;
+
+<a id="blog_nav_newpost" class="menu" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">
+新随笔</a>
+&nbsp;&nbsp;
+
+<a id="MyLinks1_NewArticleLink" class="menu" href="https://i.cnblogs.com/EditArticles.aspx?opt=1">新文章</a>
+&nbsp;&nbsp;
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E3%81%BA%E3%81%82%E7%B4%AB%E6%B3%AA%C2%B0%E5%86%B0%E5%B0%81%E3%83%A4">
+联系</a>&nbsp;&nbsp;
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+&nbsp;&nbsp;
+<a id="blog_nav_rss" class="menu" href="javascript:void(0)" data-rss="https://www.cnblogs.com/ynly/rss/">
+订阅</a>&nbsp;
+<a id="blog_nav_rss_image" href="https://www.cnblogs.com/ynly/rss/">
+    <img src="/skins/gray/images/xml.gif" alt="订阅" />
+</a>
+
+</div>
+		<div id="topics">
+			
+<!--done-->
+
+
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/ynly/archive/2020/05/29.html"><img src="/skins/gray/images/post_title.jpg" border=0 align=absmiddle></a>
+        <font color="#555555">2020年5月29日</font>
+    </div>
+
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12990220.html">
+    Hadoop 伪分布模式安装
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：（ 温馨提示：图片中有id有姓名，不要盗用哦，可参考流程，有问题评论区留言哦 ） 一、任务目标 1、了解Hadoop的3种运行模式 2、熟练掌握Hadoop伪分布模式安装流程 3、培养独立完成Hadoop伪分布安装的能力 二、系统环境 Linux Ubuntu 16.04 三、任务内容 在只安装Li            <a href="https://www.cnblogs.com/ynly/p/12990220.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-29 23:39
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(12)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12990220" rel="nofollow">
+    编辑
+</a>
+</div>
+
+    <center><img src="/skins/gray/images/separator.gif" /></center>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/ynly/archive/2020/05/28.html"><img src="/skins/gray/images/post_title.jpg" border=0 align=absmiddle></a>
+        <font color="#555555">2020年5月28日</font>
+    </div>
+
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12984597.html">
+    Word 如何标齐选项
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：我自己每次都忘记，在这里记录一下方便查阅。其实标齐的方式有很多种，不过我比较倾向于这种。 首先，是一堆杂乱无章的选项。 然后全选： 随后点击 “开始——替换” 查找内容为 [ABCD] 替换内容为 ^t^&amp; 点击更多选中 “使用通配符” 之后点击 &quot;全部替换&quot; 就会整整齐齐啦（当然，某些单独地方还需            <a href="https://www.cnblogs.com/ynly/p/12984597.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-28 22:58
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(8)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12984597" rel="nofollow">
+    编辑
+</a>
+</div>
+
+    <center><img src="/skins/gray/images/separator.gif" /></center>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/ynly/archive/2020/05/27.html"><img src="/skins/gray/images/post_title.jpg" border=0 align=absmiddle></a>
+        <font color="#555555">2020年5月27日</font>
+    </div>
+
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12957759.html">
+    数值分析实验之矩阵特征值（Python代码）
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一、实验目的 1.求矩阵的部分特征值问题具有十分重要的理论意义和应用价值； 2.掌握幂法、反幂法求矩阵的特征值和特征向量以及相应的程序设计； 3.掌握矩阵QR分解 二、实验原理 幂法是一种计算矩阵主特征值(矩阵按模最大的特征值)及对应特征向量的迭代方法, 特别是用于大型稀疏矩阵。设实矩阵A=[aij            <a href="https://www.cnblogs.com/ynly/p/12957759.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-27 10:27
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(10)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12957759" rel="nofollow">
+    编辑
+</a>
+</div>
+
+    <center><img src="/skins/gray/images/separator.gif" /></center>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/ynly/archive/2020/05/25.html"><img src="/skins/gray/images/post_title.jpg" border=0 align=absmiddle></a>
+        <font color="#555555">2020年5月25日</font>
+    </div>
+
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12955401.html">
+    数值分析实验之平方根法解线性方程组（MATLAB代码）
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：平方根法解如下方程组 • 法一： clear clc A=input(&#39;输入对称正定矩阵A=&#39;) B=input(&#39;输入自由项B=&#39;) n=length(A(:,1)); for k=1:n if (det(A(1:k,1:k))&lt;=0) input(&#39;矩阵不是正定矩阵,请重新运行程序&#39;) end             <a href="https://www.cnblogs.com/ynly/p/12955401.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-25 10:26
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(13)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12955401" rel="nofollow">
+    编辑
+</a>
+</div>
+
+    <center><img src="/skins/gray/images/separator.gif" /></center>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/ynly/archive/2020/05/21.html"><img src="/skins/gray/images/post_title.jpg" border=0 align=absmiddle></a>
+        <font color="#555555">2020年5月21日</font>
+    </div>
+
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12931689.html">
+    Packet Tracer 下载方法
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：方法一：如下：资源—下载Packet Tracer 此处有不同版本的下载，要根据不同电脑版本对应下载 查看电脑版本方法： or 之后对应版本安装即可。 方法二：在我的课程里边点击启动课程 Course下点击“Student Resources” 之后点击“Packet Tracer Resource            <a href="https://www.cnblogs.com/ynly/p/12931689.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-21 16:37
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(15)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12931689" rel="nofollow">
+    编辑
+</a>
+</div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12929117.html">
+    注册 Netacad （思科）账户
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：要想使用思科模拟器必须要注册该账户，用此账户才能登陆并正常使用。（我这里浏览器有点问题，他总是繁体字，不过没关系，影响不太大） Step1 ：打开浏览器，建议使用谷歌浏览器 Step2 ：登录netacad网站：http://www.netacad.com/ Step3 ：进入netacad网站，因            <a href="https://www.cnblogs.com/ynly/p/12929117.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-21 16:02
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(42)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12929117" rel="nofollow">
+    编辑
+</a>
+</div>
+
+    <center><img src="/skins/gray/images/separator.gif" /></center>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/ynly/archive/2020/05/20.html"><img src="/skins/gray/images/post_title.jpg" border=0 align=absmiddle></a>
+        <font color="#555555">2020年5月20日</font>
+    </div>
+
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12894247.html">
+    数值分析实验之非线性方程求根（Python 现）
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：详细实验指导见上一篇，此处只写内容啦 实验内容： 1. 用二分法求方程x3-3x-1=0在的所有根.要求每个根的误差小于0.001. 提示与要求: (1) 利用精度找到迭代次数; (2) 由f(x)=3(x2-1)可取隔根区间[-2,-1].[-1,1].[1,2]); (3) 用程序求各隔根区间内            <a href="https://www.cnblogs.com/ynly/p/12894247.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-20 19:50
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(8)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12894247" rel="nofollow">
+    编辑
+</a>
+</div>
+            <div class="postSeparator"></div>
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12894178.html">
+    数值分析实验之非线性方程求根（MATLAB实现）
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一、实验目的 1． 了解一般非线性方程的求根是比较复杂的事情：要讨论（或知道）它有无实根，有多少实根；知道求近似根常用的几种方法，每种方法的特点是什么。 2． 用通过二分法（区间半分法）、不动点(也Picard)迭代法及Newton迭代（切线）法求其它非线性方程的根，并尽可能估计误差。 二、实验原理            <a href="https://www.cnblogs.com/ynly/p/12894178.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-20 00:13
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(14)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12894178" rel="nofollow">
+    编辑
+</a>
+</div>
+
+    <center><img src="/skins/gray/images/separator.gif" /></center>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/ynly/archive/2020/05/19.html"><img src="/skins/gray/images/post_title.jpg" border=0 align=absmiddle></a>
+        <font color="#555555">2020年5月19日</font>
+    </div>
+
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12879631.html">
+    数值分析实验之矩阵的LU分解及在解线性方程组中的应用（java 代码） 
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：详细实验指导见上上一篇，此处只写内容啦 求如下4阶矩阵的LU分解。 package shuzhifenxi; import java.util.Arrays; import java.util.List; public class lll { public static void main(Stri            <a href="https://www.cnblogs.com/ynly/p/12879631.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-19 06:56
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(22)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12879631" rel="nofollow">
+    编辑
+</a>
+</div>
+
+    <center><img src="/skins/gray/images/separator.gif" /></center>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/ynly/archive/2020/05/18.html"><img src="/skins/gray/images/post_title.jpg" border=0 align=absmiddle></a>
+        <font color="#555555">2020年5月18日</font>
+    </div>
+
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/ynly/p/12879597.html">
+    数值分析实验之矩阵的LU分解及在解线性方程组中的应用（MATLAB 代码）
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：详细实验指导见上一篇，此处只写内容啦 求如下4阶矩阵的LU分解。 • LU分解法 函数定义： function x=solvebyLU(A,b)% 该函数利用LU分解法求线性方程组Ax=b的解 flag=[exist(&#39;A&#39;),exist(&#39;b&#39;)]; if flag==0 disp(&#39;该方程组无解            <a href="https://www.cnblogs.com/ynly/p/12879597.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="postDesc">posted @ 2020-05-18 19:53
+ぺあ紫泪°冰封ヤ
+<span class="post-view-count">阅读(10)</span><text> </text>
+<span class="post-comment-count">评论(0)</span><text> </text>
+<span class="post-digg-count">推荐(0)</span><text> </text>
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12879597" rel="nofollow">
+    编辑
+</a>
+</div>
+
+    <center><img src="/skins/gray/images/separator.gif" /></center>
+</div>
+
+
+
+<div class="topicListFooter">
+    <div id="nav_next_page">
+        
+    <a href="https://www.cnblogs.com/ynly/default.html?page=2">
+        下一页
+    </a>
+
+    </div>    
+</div>
+
+
+
+
+
+
+
+
+		</div>
+	</div>
+	</div>
+	<!-- left ends -->
+	<!-- right starts -->
+	<div id="right">
+		<!-- 右侧工具部分 -->
+		<div id="right_content">
+	
+			
+<div id="sidebar_news" class="newsItem">
+            <script>loadBlogNews();</script>
+</div>
+
+<div id="sidebar_ad"></div>
+	
+			<div id="calendar"><div id="blog-calendar" style="display:none"></div><script>loadBlogDefaultCalendar();</script></div>
+			
+				<DIV id="leftcontentcontainer">
+					<div id="blog-sidecolumn"></div>
+                    <script>loadBlogSideColumn();</script>
+				</DIV>
+			
+		</div>
+		<!-- //右侧工具部分 -->
+	</div>
+	<!-- right ends -->
+	<div class="clear"></div>
+</div>
+<div id="footer"><!--done-->
+Copyright &copy; 2020 ぺあ紫泪°冰封ヤ
+<br /><span id="poweredby">Powered by .NET Core on Kubernetes</span>
+
+
+</div>
+
+
+    <div id="page_end_html">
+        <!--live2d-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>Live2D</title>
+
+<link rel="stylesheet" type="text/css" href="https://blog-static.cnblogs.com/files/zouwangblog/waifu1.css"/>
+<link rel="stylesheet" type="text/css" href="https://blog-static.cnblogs.com/files/zouwangblog/flat-ui.min1.css"/>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+<div class="waifu" id="waifu">
+<div class="waifu-tips" style="opacity: 1; font-size: 14px"></div>
+<canvas id="live2d" width="300" height="300" class="live2d"></canvas>
+<div class="waifu-tool">
+<span class="fui-home"></span>
+<span class="fui-chat"></span>
+<span class="fui-eye"></span>
+<span class="fui-user"></span>
+<span class="fui-photo"></span>
+<span class="fui-cross"></span>
+</div>
+</div>
+<script src="https://blog-static.cnblogs.com/files/zouwangblog/live2d.js"></script>
+<script src="https://blog-static.cnblogs.com/files/zouwangblog/waifu-tips1.js"></script>
+<script type="text/javascript">initModel()</script>
+</body>
+</html>
+<!--live2dend-->
+
+
+<script src="https://blog-static.cnblogs.com/files/yjlblog/cursor-effects.js"></script>
+ <canvas width="1366" height="662" style="position: fixed; left: 0px; top: 0px; z-index: 2147483647; pointer-events: none;"></canvas>
+
+
+
+<link  type="text/css" rel="stylesheet" href="https://blog-static.cnblogs.com/files/zouwangblog/comment.css">
+<script type="text/javascript">
+$(function(){
+    $('#blogTitle h1').addClass('bounceInLeft animated');
+    $('#blogTitle h2').addClass('bounceInRight animated');
+    // 删除反对按钮    $('.buryit').remove();
+    initCommentData();
+});
+function initCommentData() {
+    $('.feedbackItem').each(function() {
+        var text = $(this).find('.feedbackListSubtitle .layer').text();
+        // 将楼层信息放到data里面
+        // $(this).find('.blog_comment_body').attr('data-louceng', text.replace(/^#/g, ''));
+        if($(this).find('.feedbackListSubtitle .louzhu').length>0) $(this).addClass('myself');
+        var avatar = $(this).find('> .feedbackCon > span').html() || 'http://pic.cnitblog.com/face/sample_face.gif';
+        $(this).find('> .feedbackCon > .blog_comment_body').append('<img class="user-avatar" src="'+avatar+'"/>')
+    });
+}
+
+$(document).ajaxComplete(function(event, xhr, settings) {
+  // 监听获取评论ajax事件
+  if(settings.url.indexOf('/mvc/blog/GetComments.aspx') >= 0) {
+    initCommentData();
+  }
+});
+</script>
+    </div>
+</body>
+</html>
