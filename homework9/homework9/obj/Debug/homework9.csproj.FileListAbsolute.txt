@@ -1,0 +1,10 @@
+C:\Gittest\homework9\homework9\bin\Debug\homework9.exe.config
+C:\Gittest\homework9\homework9\bin\Debug\homework9.exe
+C:\Gittest\homework9\homework9\bin\Debug\homework9.pdb
+C:\Gittest\homework9\homework9\obj\Debug\homework9.csprojAssemblyReference.cache
+C:\Gittest\homework9\homework9\obj\Debug\homework9.Form1.resources
+C:\Gittest\homework9\homework9\obj\Debug\homework9.Properties.Resources.resources
+C:\Gittest\homework9\homework9\obj\Debug\homework9.csproj.GenerateResource.cache
+C:\Gittest\homework9\homework9\obj\Debug\homework9.csproj.CoreCompileInputs.cache
+C:\Gittest\homework9\homework9\obj\Debug\homework9.exe
+C:\Gittest\homework9\homework9\obj\Debug\homework9.pdb
